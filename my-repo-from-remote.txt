@@ -2,5 +2,5 @@ Rencana Kedepannya
 - Konsisten untuk belajar programming
 - Membuat platform untuk pengelolaan video
 - Membuat forum diskusi
-- Saya ingin membuat website yang interaktif 
 - Berkolaborasi dengan tim
+- belajar menggunakan python
