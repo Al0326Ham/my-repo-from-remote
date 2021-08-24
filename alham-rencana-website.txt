@@ -4,4 +4,5 @@ Rencana website alham:
 - Javascript
   *ES6
   *Framework Javascript
+- Dasar struktur data
 - PHP
