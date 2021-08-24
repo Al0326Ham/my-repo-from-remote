@@ -1,0 +1,7 @@
+Rencana website alham:
+- HTML
+- CSS
+- Javascript
+  *ES6
+  *Framework Javascript
+- PHP
