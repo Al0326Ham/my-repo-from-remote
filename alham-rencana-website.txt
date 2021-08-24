@@ -5,6 +5,7 @@ Rencana website alham:
   *ES6
   *Framework Javascript
    ^Vue
+   ^React
 - Dasar struktur data
 - PHP framework
  *Laravel
